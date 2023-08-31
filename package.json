@@ -1,0 +1,22 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "latihannode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibranajwan1/basic-node.git"
+  },
+  "keywords": [
+    "basicnode"
+  ],
+  "author": "\"ibra najwan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibranajwan1/basic-node/issues"
+  },
+  "homepage": "https://github.com/ibranajwan1/basic-node#readme"
+}
